@@ -6,7 +6,7 @@ namespace Exercise_01_WorkerContracts
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
